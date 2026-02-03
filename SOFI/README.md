@@ -9,7 +9,7 @@
 
 <img src="https://github.com/fabiobassini/financial_valuation_models/blob/main/SOFI/imgs/dcf/1.png" alt="overview" width="400"/>
 <img src="https://github.com/fabiobassini/financial_valuation_models/blob/main/SOFI/imgs/dcf/2.png" alt="overview" width="400"/>
-<img src="https://github.com/fabiobassini/financial_valuation_models/blob/main/main/SOFI/imgs/dcf/3.png" alt="overview" width="400"/>
+<img src="https://github.com/fabiobassini/financial_valuation_models/blob/main/SOFI/imgs/dcf/3.png" alt="overview" width="400"/>
 
 ### Detailed Functionality
 The DCF model forecasts financials over an explicit period (default: 10 years) with three phases:
